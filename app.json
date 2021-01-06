@@ -1,0 +1,12 @@
+{
+  "name": "WBW",
+  "displayName": "WBW",
+  "expo": {
+    "name": "WBW",
+    "slug": "WBW",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
